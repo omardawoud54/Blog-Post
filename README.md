@@ -40,10 +40,4 @@ To run or customize this project locally:
 ## 👨‍💻 About the Author
 
 * **Developer:** Omar Dawoud
-* **Role:** Backend Developer & Aspiring AI Developer
-
-### Connect with Me
-
-* 🟦 [Facebook](https://www.facebook.com/omardawoud11)
-* 🐙 [GitHub](https://github.com/omardawoud54)
-* 📸 [Instagram](https://www.instagram.com/omardawoud54)
+* **Role:** Still training on front end and aspiring on Full Stack or AI Engineer
